@@ -117,6 +117,6 @@ This project helps beginners understand:
 
 ## 👨‍💻 Author
 
-Student Java Practice Project
+GHP Madhubhashana
 
 ---
