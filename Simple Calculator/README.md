@@ -1,3 +1,4 @@
+@ -1,59 +0,0 @@
 # Java Simple Calculator
 
 ## 📌 Project Description
@@ -56,4 +57,4 @@ Result = 3.0
 
 ## 👨‍💻 Author
 
-Pasindu
+GHP Madhubhashana
